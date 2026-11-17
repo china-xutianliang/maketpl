@@ -1,0 +1,16 @@
+# Cake Bridge: local data and build output
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+sessions.json
+__pycache__/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+output/
+*.mp4
